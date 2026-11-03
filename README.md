@@ -7,6 +7,9 @@ WYSIWYG editor instead of the plain code editor. Edits save back to disk with
 conflict detection, while the document's doctype, `<head>`, scripts and comments
 are preserved byte-for-byte.
 
+[![npm version](https://img.shields.io/npm/v/dsh-tinymce-html-editor.svg)](https://www.npmjs.com/package/dsh-tinymce-html-editor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ![TinyMCE editing surface](https://raw.githubusercontent.com/gustock/TinyMCE-for-Deepseek-Harness/main/docs/tinymce-editor.png)
 
 - **Category:** UI & Experience

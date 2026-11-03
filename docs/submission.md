@@ -21,7 +21,7 @@ UI & Experience
 dsh plugin --profile web add dsh-tinymce-html-editor
 ```
 
-Source-only fallback until the npm release is published:
+Source-only fallback:
 
 ```bash
 dsh plugin --profile web add github:gustock/TinyMCE-for-Deepseek-Harness
