@@ -1,0 +1,6 @@
+# TinyMCE HTML Editor — adds a WYSIWYG viewer for .html/.htm files to the
+# Better Sidebar editor. The Host half serves the vendored TinyMCE assets;
+# the Client half registers the file viewer.
+- insert:
+    - id: tinymce-html-editor
+      name: dsh-tinymce-html-editor

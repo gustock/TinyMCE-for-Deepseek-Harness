@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="TinyMCE HTML editor">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#1f5fd0"/>
+  <rect x="17" y="13" width="30" height="38" rx="4" fill="#ffffff"/>
+  <path d="M23 22h18M23 29h12" stroke="#1f5fd0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M23 38h7" stroke="#8fb4f2" stroke-width="3" stroke-linecap="round"/>
+  <g transform="rotate(45 43 43)">
+    <rect x="38" y="30" width="10" height="22" rx="3" fill="#ffb020"/>
+    <path d="M38 52h10l-5 7z" fill="#ff7a45"/>
+  </g>
+</svg>
