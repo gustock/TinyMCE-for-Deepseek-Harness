@@ -18,7 +18,8 @@
     "locale/*.json",
     "icon.svg",
     "vendor/**",
-    "LICENSE"
+    "LICENSE",
+    "docs/*.png"
   ],
   "dsh": {
     "bundle": {
@@ -51,5 +52,13 @@
     "dsh-better-sidebar": {
       "optional": true
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustock/TinyMCE-for-Deepseek-Harness.git"
+  },
+  "homepage": "https://github.com/gustock/TinyMCE-for-Deepseek-Harness#readme",
+  "bugs": {
+    "url": "https://github.com/gustock/TinyMCE-for-Deepseek-Harness/issues"
   }
 }
